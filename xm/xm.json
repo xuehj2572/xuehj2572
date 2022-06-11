@@ -9,7 +9,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"https://github.com/xuehj2572/xuehj2572/blob/4a6cac2fac82cd614acf4c4c667b8388f5b308e4/xm/xm.jar",
+"spider":"https://github.com/xuehj2572/xuehj2572/blob/master/0608.jar?raw=true",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
 "proxy://do=live&type=txt&ext=Y2xhbjovL3htL3R2L2xpdmUudHh0"
